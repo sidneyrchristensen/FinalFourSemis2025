@@ -46,3 +46,6 @@ AVG(1): The points per game of that team
 
 The average values Auburn had for each of these stats were plugged into the model to predict how many points Florida would score given Auburn as its opponent!
 The model was only one point off as it predicted 78 points for Florida while the actual number of points Florida scored was 79!
+
+UF stats from: https://floridagators.com/sports/mens-basketball/stats
+Aub stats from: https://auburntigers.com/sports/mens-basketball/stats
