@@ -28,7 +28,7 @@ DEF (Defensive Rebounds): The total number of rebounds a player collects on the 
 
 TOT (Total Rebounds): The total number of rebounds a player collects, both offensive and defensive (OFF + DEF).
 
-AVG (Average): This could refer to the player's overall average in any specific stat (e.g., points per game, rebounds per game) for a given time period.
+AVG (Average): The average number of rebounds per game
 
 PF (Personal Fouls): The total number of personal fouls committed by a player.
 
